@@ -4,6 +4,8 @@ This repo contains an easy-to-customize personal dev portfolio template that was
 It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome.
 The site is static and comes production ready if you just want to add your information and go. 
 Alternatively, you can edit styles, colours, and scripts fairly easily.
+## Screenshots
+
 ![image](https://user-images.githubusercontent.com/110620986/202904370-59fca02f-d1df-4cb6-89ef-aa65e218d0e9.png)
 ![image](https://user-images.githubusercontent.com/110620986/202904382-9e63b8b0-67fe-4482-b3c1-8639d8c2c260.png)
 ![image](https://user-images.githubusercontent.com/110620986/202904391-385b898c-00c5-478a-8faf-e18d9b1e4ad2.png)
